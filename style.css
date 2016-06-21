@@ -1,0 +1,10 @@
+@charset "utf-8";
+#center {
+	font-family: "宋体";
+	font-size: 16px;
+	color: #000;
+	border: 1px dotted #CCC;
+	width: 211px;
+	margin-right: auto;
+	margin-left: auto;
+}
